@@ -7,7 +7,7 @@
 - 🔭 Atualmete faço faculdade de Ciências da computação e sou estudante na Trybe
 - 🌱 Estou apredendo HTML, CSS & JavaSript
 - 📫 contate-me no e-mail: erick.tatui@hotmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/duribeiro">
