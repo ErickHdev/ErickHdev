@@ -9,13 +9,6 @@
 - 📫 contate-me no e-mail: erick.tatui@hotmail.com
 - 😄 Pronomes: ele/dele
 
-<div align="center">
-  <a href="https://github.com/duribeiro">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickhdev)](https://github.com/anuraghazra/github-readme-stats)
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
