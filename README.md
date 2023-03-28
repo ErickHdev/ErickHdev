@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/duribeiro">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=erickhdev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickhdev&theme=dracula&hide_border=false&&layout=compact"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickhdev)](https://github.com/anuraghazra/github-readme-stats)
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
